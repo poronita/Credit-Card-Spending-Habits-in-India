@@ -46,6 +46,5 @@ The following libraries and technologies were used in this project:
 ## Visualization
 
 <p> I have created interactive visualizations to help you better understand the data. </p>
----
 
 Feel free to explore the project and reach out if you have any questions or suggestions. I look forward to sharing my insights with you!
