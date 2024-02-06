@@ -1,1 +1,1 @@
-# Credit Card Spending-Habits-in-India
+# Credit Card Spending Habits in India
