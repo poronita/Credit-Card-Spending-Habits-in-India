@@ -1,6 +1,6 @@
 # Credit Card Spending Habits in India
 
-Welcome to the Credit Card Spending Habits in India repository! This project is my solo effort to analyze and visualize the spending habits of credit card users in India.
+Welcome to the Credit Card Spending Habits in India repository! This project is created to analyze and visualize the spending habits of credit card users in India.
 
 ## Table of Contents
 
