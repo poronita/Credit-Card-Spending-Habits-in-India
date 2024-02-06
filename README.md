@@ -31,6 +31,18 @@ My analysis includes:
 - Examining the impact of economic indicators on credit card spending.
 - Analyzing seasonal trends in credit card usage.
 
+## Used Libraries and Technologies
+
+The following libraries and technologies were used in this project:
+
+- Python
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-learn
+
 ## Visualization
 
 <p> I have created interactive visualizations to help you better understand the data. </p>
